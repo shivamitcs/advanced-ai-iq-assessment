@@ -89,34 +89,54 @@ The system delivers a more accurate and engaging intelligence evaluation experie
 
 ## System Architecture
 
-The platform follows a modular architecture focused on adaptive assessment workflows, cognitive analysis, intelligent calibration, and personalized evaluation experiences.
+The platform follows a scalable architecture designed for adaptive assessments, cognitive evaluation, AI-powered assistance, and real-time performance analysis.
+
+<p align="center">
+  <img
+    src="./assets/architecture/adaptive-iq-assessment-architecture.png"
+    alt="Advanced AI-Powered IQ Assessment Architecture"
+    width="100%"
+  />
+</p>
 
 ---
 
 ### Architecture Highlights
 
 * Adaptive assessment engine
-* Angular-based frontend ecosystem
 * Cognitive evaluation workflows
-* Dynamic difficulty calibration
 * AI-powered assistance layer
-* Age-group intelligence profiling
+* Dynamic difficulty calibration
+* Personalized intelligence evaluation
 * Multi-domain assessment infrastructure
-* Personalized evaluation pipeline
-* Scalable assessment architecture
+* Secure and scalable architecture
+* Analytics and reporting capabilities
 
 ---
 
 ### Core Architecture Layers
 
-| Layer              | Responsibility                          |
-| ------------------ | --------------------------------------- |
-| Presentation Layer | User interface and assessment workflows |
-| Assessment Layer   | Adaptive question management            |
-| Cognitive Layer    | Intelligence evaluation logic           |
-| AI Layer           | Assistant and guidance system           |
-| Data Layer         | Assessment data and user progress       |
-| Analytics Layer    | Performance tracking and insights       |
+| Layer              | Responsibility                                      |
+| ------------------ | --------------------------------------------------- |
+| User Layer         | Assessment experience and interaction               |
+| Presentation Layer | Angular UI components, routing, state management    |
+| API Layer          | Authentication, validation, middleware, APIs        |
+| Intelligence Layer | Adaptive assessment and cognitive analysis          |
+| Data Layer         | Users, assessments, questions, responses, analytics |
+| Integration Layer  | AI assistant, analytics, notifications              |
+| Security Layer     | Authentication, authorization, encryption           |
+
+---
+
+### Enterprise Capabilities
+
+* Adaptive & personalized assessments
+* Real-time evaluation & analytics
+* AI-powered assistance
+* Cognitive intelligence analysis
+* Secure assessment workflows
+* Scalable platform architecture
+* Performance monitoring & reporting
 
 ---
 
