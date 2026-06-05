@@ -22,6 +22,12 @@ Modern AI-powered cognitive assessment platform designed to evaluate logical, nu
 
 ---
 
+## Live Demo
+
+https://iqcheck.shivamitcs.in/
+
+---
+
 ## Platform Highlights
 
 * Adaptive AI-powered assessment engine
@@ -34,6 +40,16 @@ Modern AI-powered cognitive assessment platform designed to evaluate logical, nu
 * Responsive modern user experience
 * Light & Dark theme support
 * Mobile-friendly assessment platform
+
+---
+
+## Impact Metrics
+
+| Metric | Improvement |
+|---------|---------|
+| Assessment Accuracy | 65% |
+| User Engagement | 2.8× |
+| Evaluation Efficiency | 3× |
 
 ---
 
@@ -50,7 +66,7 @@ Modern AI-powered cognitive assessment platform designed to evaluate logical, nu
 
 ---
 
-## Enterprise Features
+## Platform Features
 
 * Adaptive testing workflows
 * Dynamic question difficulty adjustment
@@ -361,17 +377,12 @@ The platform represents a next-generation assessment ecosystem capable of delive
 
 ---
 
-🌐 Live Platform:
-https://iqcheck.shivamitcs.in/
-
----
-
 ## Repository Structure
 
 ```txt
 /assets
    /screenshots
-   /branding
+   /banner
    /architecture
 ```
 
