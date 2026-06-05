@@ -12,6 +12,16 @@ Modern AI-powered cognitive assessment platform designed to evaluate logical, nu
 
 ---
 
+<p align="center">
+  <img
+    src="./assets/banner/advanced-ai-iq-assessment-banner.png"
+    alt="Advanced AI-Powered IQ Assessment"
+    width="100%"
+  />
+</p>
+
+---
+
 ## Platform Highlights
 
 * Adaptive AI-powered assessment engine
