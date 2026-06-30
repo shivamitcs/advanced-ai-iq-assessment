@@ -20,7 +20,7 @@ Modern AI-powered cognitive assessment platform designed to evaluate logical, nu
 
 ## 🌐 Live Demo
 
-https://iqcheck.shivamitcs.in/
+https://iqcheck.shivamitcs.in/ 
 
 ---
 
