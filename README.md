@@ -169,7 +169,7 @@ Modern assessment experience designed to deliver accurate and engaging intellige
 ### Age Group Selection
 
 <p align="center">
-  <img src="./assets/screenshots/age-group-selection-dark.png" width="100%" alt="Age Group Selection"/>
+  <img src="./assets/screenshots/age-group-selection-dark.png" width="100%" alt="Age Group Selection" />
 </p>
 
 ---
@@ -177,7 +177,7 @@ Modern assessment experience designed to deliver accurate and engaging intellige
 ### Subject Selection
 
 <p align="center">
-  <img src="./assets/screenshots/subject-selection-dark.png" width="100%" alt="Subject Selection"/>
+  <img src="./assets/screenshots/subject-selection-dark.png" width="100%" alt="Subject Selection" />
 </p>
 
 ---
@@ -185,7 +185,7 @@ Modern assessment experience designed to deliver accurate and engaging intellige
 ### Skill Level Calibration
 
 <p align="center">
-  <img src="./assets/screenshots/skill-level-selection-dark.png" width="100%" alt="Skill Level Selection"/>
+  <img src="./assets/screenshots/skill-level-selection-dark.png" width="100%" alt="Skill Level Selection" />
 </p>
 
 ---
@@ -193,7 +193,7 @@ Modern assessment experience designed to deliver accurate and engaging intellige
 ### Assessment Configuration
 
 <p align="center">
-  <img src="./assets/screenshots/configuration-dark.png" width="100%" alt="Assessment Configuration"/>
+  <img src="./assets/screenshots/configuration-dark.png" width="100%" alt="Assessment Configuration" />
 </p>
 
 ---
@@ -201,7 +201,7 @@ Modern assessment experience designed to deliver accurate and engaging intellige
 ### Adaptive Question Engine
 
 <p align="center">
-  <img src="./assets/screenshots/question-screen-dark.png" width="100%" alt="Question Screen"/>
+  <img src="./assets/screenshots/question-screen-dark.png" width="100%" alt="Question Screen" />
 </p>
 
 ---
@@ -209,7 +209,7 @@ Modern assessment experience designed to deliver accurate and engaging intellige
 ### AI IQ Assistant
 
 <p align="center">
-  <img src="./assets/screenshots/ai-assistant-chat-dark.png" width="100%" alt="AI Assistant"/>
+  <img src="./assets/screenshots/ai-assistant-chat-dark.png" width="100%" alt="AI Assistant" />
 </p>
 
 
